@@ -101,14 +101,20 @@
   display: none;
 }
 
-#div video{
+#vdo{
+  padding-bottom: 20%;
+  
+}
+#vdo video{
   z-index: -1;
   position: absolute;
 }
 
 
+
 #vdo h1{
   font-family: 'Cinzel Decorative', cursive;
+  padding-top: 25%;
   color: white;
   padding-left: 111px;
   font-size: 45px;
@@ -122,6 +128,7 @@
   font-size: 25px;
   color: white;
   text-shadow: 2px 0 2px black;
+  
 }
 
 
